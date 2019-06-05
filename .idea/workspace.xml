@@ -11,189 +11,29 @@
     </configurations>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="0942ca32-11c1-4704-8fc3-a22c15904e15" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/assetWizardSettings.xml" afterDir="false" />
+    <list default="true" id="056ad9e4-1679-4521-9628-24f8e3055614" name="Default" comment="">
+      <change beforePath="$PROJECT_DIR$/.gradle/4.6/fileHashes/fileHashes.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/4.6/fileHashes/fileHashes.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/4.6/fileHashes/fileHashes.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/4.6/fileHashes/fileHashes.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/4.6/fileHashes/resourceHashesCache.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/4.6/fileHashes/resourceHashesCache.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/4.6/taskHistory/taskHistory.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/4.6/taskHistory/taskHistory.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/4.6/taskHistory/taskHistory.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/4.6/taskHistory/taskHistory.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/buildOutputCleanup/buildOutputCleanup.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/buildOutputCleanup/buildOutputCleanup.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/buildOutputCleanup/outputFiles.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/buildOutputCleanup/outputFiles.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/assetWizardSettings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/caches/build_file_checksums.ser" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/caches/build_file_checksums.ser" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/gradle.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/gradle.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Gradle____local_aars___C__Users_Administrator_Desktop_resss_app_libs_commons_codec_1_10_sources_jar_unspecified_jar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Gradle____local_aars___C__Users_Administrator_Desktop_resss_app_libs_juniversalchardet_1_0_3_jar_unspecified_jar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Gradle____local_aars___C__Users_Administrator_Desktop_resss_app_libs_umeng_analytics_v6_1_1_jar_unspecified_jar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Gradle____local_aars___C__Users_Administrator_Desktop_resss_app_libs_utdid4all_1_0_4_jar_unspecified_jar.xml" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/runConfigurations.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/runConfigurations.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/androidTest/java/com/monke/monkeybook/ApplicationTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/app.iml" beforeDir="false" afterPath="$PROJECT_DIR$/app/app.iml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/app/src/main/AndroidManifest.xml" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/AndroidManifest.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/monke/monkeybook/BitIntentDataManager.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/monke/monkeybook/ErrorAnalyContentManager.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/monke/monkeybook/MApplication.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/monke/monkeybook/ProxyManager.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/monke/monkeybook/ReadBookControl.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/monke/monkeybook/base/MBaseActivity.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/monke/work/base/MBaseActivity.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/monke/monkeybook/base/MBaseModelImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/monke/work/base/MBaseModelImpl.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/monke/monkeybook/base/ProxyInterceptor.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/monke/work/base/ProxyInterceptor.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/monke/monkeybook/base/observer/SimpleObserClass.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/monke/work/base/observer/SimpleObserClass.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/monke/monkeybook/base/observer/SimpleObserver.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/monke/work/base/observer/SimpleObserver.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/monke/monkeybook/bean/BookContentBean.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/monke/work/bean/BookContentBean.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/monke/monkeybook/bean/BookInfoBean.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/monke/work/bean/BookInfoBean.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/monke/monkeybook/bean/BookShelfBean.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/monke/monkeybook/bean/ChapterListBean.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/monke/work/bean/ChapterListBean.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/monke/monkeybook/bean/DownloadChapterBean.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/monke/work/bean/DownloadChapterBean.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/monke/monkeybook/bean/DownloadChapterListBean.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/monke/work/bean/DownloadChapterListBean.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/monke/monkeybook/bean/LibraryBean.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/monke/work/bean/LibraryBean.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/monke/monkeybook/bean/LibraryKindBookListBean.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/monke/work/bean/LibraryKindBookListBean.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/monke/monkeybook/bean/LibraryNewBookBean.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/monke/work/bean/LibraryNewBookBean.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/monke/monkeybook/bean/LocBookShelfBean.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/monke/work/bean/LocBookShelfBean.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/monke/monkeybook/bean/ReadBookContentBean.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/monke/work/bean/ReadBookContentBean.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/monke/monkeybook/bean/SearchBookBean.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/monke/work/bean/SearchBookBean.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/monke/monkeybook/bean/SearchHistoryBean.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/monke/work/bean/SearchHistoryBean.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/monke/monkeybook/bean/WebChapterBean.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/monke/work/bean/WebChapterBean.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/monke/monkeybook/bean/WebContentBean.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/monke/work/bean/WebContentBean.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/monke/monkeybook/cache/ACache.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/monke/work/cache/ACache.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/monke/monkeybook/common/RxBusTag.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/monke/monkeybook/common/api/IEasouApi.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/monke/work/common/api/IEasouApi.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/monke/monkeybook/common/api/IGxwztvApi.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/monke/work/common/api/IGxwztvApi.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/monke/monkeybook/common/api/ILingdiankanshuApi.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/monke/monkeybook/dao/BookContentBeanDao.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/monke/work/dao/BookContentBeanDao.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/monke/monkeybook/dao/BookInfoBeanDao.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/monke/work/dao/BookInfoBeanDao.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/monke/monkeybook/dao/BookShelfBeanDao.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/monke/work/dao/BookShelfBeanDao.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/monke/monkeybook/dao/ChapterListBeanDao.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/monke/work/dao/ChapterListBeanDao.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/monke/monkeybook/dao/DaoMaster.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/monke/work/dao/DaoMaster.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/monke/monkeybook/dao/DaoSession.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/monke/work/dao/DaoSession.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/monke/monkeybook/dao/DbHelper.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/monke/work/dao/DbHelper.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/monke/monkeybook/dao/DownloadChapterBeanDao.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/monke/work/dao/DownloadChapterBeanDao.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/monke/monkeybook/dao/SearchHistoryBeanDao.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/monke/work/dao/SearchHistoryBeanDao.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/monke/monkeybook/listener/OnGetChapterListListener.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/monke/monkeybook/model/IEasouBookModel.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/monke/work/model/IEasouBookModel.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/monke/monkeybook/model/IGxwztvBookModel.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/monke/monkeybook/model/IImportBookModel.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/monke/monkeybook/model/IStationBookModel.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/monke/work/model/IStationBookModel.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/monke/monkeybook/model/IWebBookModel.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/monke/monkeybook/model/IWebContentModel.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/monke/work/model/IWebContentModel.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/monke/monkeybook/model/impl/Content17duxsModelImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/monke/work/model/impl/Content17duxsModelImpl.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/monke/monkeybook/model/impl/Content17kModelImpl.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/monke/monkeybook/model/impl/Content3dllcModelImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/monke/work/model/impl/Content3dllcModelImpl.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/monke/monkeybook/model/impl/Content44pqModelImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/monke/work/model/impl/Content44pqModelImpl.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/monke/monkeybook/model/impl/Content630bookCCModelImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/monke/work/model/impl/Content630bookCCModelImpl.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/monke/monkeybook/model/impl/Content92zwModelImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/monke/work/model/impl/Content92zwModelImpl.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/monke/monkeybook/model/impl/ContentAszwModelImpl.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/monke/monkeybook/model/impl/ContentBaishukuModelImpl.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/monke/monkeybook/model/impl/ContentBxwx9ModelImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/monke/work/model/impl/ContentBxwx9ModelImpl.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/monke/monkeybook/model/impl/ContentCommendModelImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/monke/work/model/impl/ContentCommendModelImpl.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/monke/monkeybook/model/impl/ContentDhzwModelImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/monke/work/model/impl/ContentDhzwModelImpl.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/monke/monkeybook/model/impl/ContentEasouModelImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/monke/work/model/impl/ContentEasouModelImpl.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/monke/monkeybook/model/impl/ContentFuheishuModelImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/monke/work/model/impl/ContentFuheishuModelImpl.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/monke/monkeybook/model/impl/ContentKewaishuModelImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/monke/work/model/impl/ContentKewaishuModelImpl.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/monke/monkeybook/model/impl/ContentLeduwoModelImpl.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/monke/monkeybook/model/impl/ContentLewen8ModelImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/monke/work/model/impl/ContentLewen8ModelImpl.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/monke/monkeybook/model/impl/ContentPbtxtModelImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/monke/work/model/impl/ContentPbtxtModelImpl.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/monke/monkeybook/model/impl/ContentPpxsModelImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/monke/work/model/impl/ContentPpxsModelImpl.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/monke/monkeybook/model/impl/ContentQulaModelImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/monke/work/model/impl/ContentQulaModelImpl.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/monke/monkeybook/model/impl/ContentQzreadModelImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/monke/work/model/impl/ContentQzreadModelImpl.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/monke/monkeybook/model/impl/ContentRanwenaModelImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/monke/work/model/impl/ContentRanwenaModelImpl.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/monke/monkeybook/model/impl/ContentShulouModelImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/monke/work/model/impl/ContentShulouModelImpl.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/monke/monkeybook/model/impl/ContentSnwx8ModelImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/monke/work/model/impl/ContentSnwx8ModelImpl.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/monke/monkeybook/model/impl/ContentSuimengModelImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/monke/work/model/impl/ContentSuimengModelImpl.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/monke/monkeybook/model/impl/ContentSyzwwModelImpl.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/monke/monkeybook/model/impl/ContentVodtwModelImpl.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/monke/monkeybook/model/impl/ContentWxguanModelImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/monke/work/model/impl/ContentWxguanModelImpl.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/monke/monkeybook/model/impl/ContentXqingdouCCModelImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/monke/work/model/impl/ContentXqingdouCCModelImpl.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/monke/monkeybook/model/impl/ContentXqingdouModelImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/monke/work/model/impl/ContentXqingdouModelImpl.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/monke/monkeybook/model/impl/ContentYb3ModelImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/monke/work/model/impl/ContentYb3ModelImpl.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/monke/monkeybook/model/impl/ContentZhulangModelImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/monke/work/model/impl/ContentZhulangModelImpl.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/monke/monkeybook/model/impl/GxwztvBookModelImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/monke/work/model/impl/GxwztvBookModelImpl.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/monke/monkeybook/model/impl/ImportBookModelImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/monke/work/model/impl/ImportBookModelImpl.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/monke/monkeybook/model/impl/LingdiankanshuStationBookModelImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/monke/work/model/impl/LingdiankanshuStationBookModelImpl.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/monke/monkeybook/model/impl/WebBookModelImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/monke/work/model/impl/WebBookModelImpl.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/monke/monkeybook/presenter/IBookDetailPresenter.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/monke/monkeybook/presenter/IBookReadPresenter.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/monke/monkeybook/presenter/IChoiceBookPresenter.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/monke/monkeybook/presenter/IImportBookPresenter.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/monke/monkeybook/presenter/ILibraryPresenter.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/monke/monkeybook/presenter/IMainPresenter.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/monke/monkeybook/presenter/ISearchPresenter.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/monke/monkeybook/presenter/impl/BookDetailPresenterImpl.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/monke/monkeybook/presenter/impl/ChoiceBookPresenterImpl.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/monke/monkeybook/presenter/impl/ImportBookPresenterImpl.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/monke/monkeybook/presenter/impl/LibraryPresenterImpl.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/monke/monkeybook/presenter/impl/MainPresenterImpl.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/monke/monkeybook/presenter/impl/ReadBookPresenterImpl.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/monke/monkeybook/presenter/impl/SearchPresenterImpl.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/monke/monkeybook/service/DownloadService.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/monke/monkeybook/utils/BlurTransformation.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/monke/work/utils/BlurTransformation.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/monke/monkeybook/utils/DensityUtil.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/monke/work/utils/DensityUtil.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/monke/monkeybook/utils/NetworkUtil.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/monke/work/utils/NetworkUtil.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/monke/monkeybook/utils/NumberUtil.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/monke/work/utils/NumberUtil.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/monke/monkeybook/utils/ParseSystemUtil.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/monke/work/utils/ParseSystemUtil.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/monke/monkeybook/utils/PremissionCheck.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/monke/monkeybook/utils/aes/AESUtil.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/monke/monkeybook/utils/aes/InsecureSHA1PRNGKeyDerivator.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/monke/work/utils/aes/InsecureSHA1PRNGKeyDerivator.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/monke/monkeybook/utils/base64/BASE64Decoder.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/monke/work/utils/base64/BASE64Decoder.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/monke/monkeybook/utils/base64/BASE64Encoder.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/monke/work/utils/base64/BASE64Encoder.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/monke/monkeybook/utils/base64/CEFormatException.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/monke/monkeybook/utils/base64/CEStreamExhausted.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/monke/work/utils/base64/CEStreamExhausted.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/monke/monkeybook/utils/base64/CharacterDecoder.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/monke/work/utils/base64/CharacterDecoder.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/monke/monkeybook/utils/base64/CharacterEncoder.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/monke/work/utils/base64/CharacterEncoder.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/monke/monkeybook/view/IBookDetailView.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/monke/work/view/IBookDetailView.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/monke/monkeybook/view/IBookReadView.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/monke/work/view/IBookReadView.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/monke/monkeybook/view/IChoiceBookView.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/monke/work/view/IChoiceBookView.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/monke/monkeybook/view/IImportBookView.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/monke/work/view/IImportBookView.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/monke/monkeybook/view/ILibraryView.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/monke/monkeybook/view/IMainView.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/monke/work/view/IMainView.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/monke/monkeybook/view/ISearchView.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/monke/work/view/ISearchView.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/monke/monkeybook/view/adapter/BookShelfAdapter.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/monke/monkeybook/view/adapter/ChapterListAdapter.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/monke/work/view/adapter/ChapterListAdapter.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/monke/monkeybook/view/adapter/ChoiceBookAdapter.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/monke/work/view/adapter/ChoiceBookAdapter.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/monke/monkeybook/view/adapter/ImportBookAdapter.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/monke/work/view/adapter/ImportBookAdapter.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/monke/monkeybook/view/adapter/SearchBookAdapter.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/monke/work/view/adapter/SearchBookAdapter.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/monke/monkeybook/view/adapter/SearchHistoryAdapter.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/monke/work/view/adapter/SearchHistoryAdapter.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/monke/monkeybook/view/impl/BookDetailActivity.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/monke/monkeybook/view/impl/ChoiceBookActivity.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/monke/work/view/impl/ChoiceBookActivity.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/monke/monkeybook/view/impl/ImportBookActivity.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/monke/work/view/impl/ImportBookActivity.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/monke/monkeybook/view/impl/LibraryActivity.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/monke/work/view/impl/LibraryActivity.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/monke/monkeybook/view/impl/MainActivity.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/monke/monkeybook/view/impl/ReadBookActivity.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/monke/work/view/impl/ReadBookActivity.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/monke/monkeybook/view/impl/SearchActivity.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/monke/monkeybook/view/impl/WelcomeActivity.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/monke/work/view/impl/WelcomeActivity.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/monke/monkeybook/view/popupwindow/CheckAddShelfPop.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/monke/work/view/popupwindow/CheckAddShelfPop.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/monke/monkeybook/view/popupwindow/DownloadListPop.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/monke/work/view/popupwindow/DownloadListPop.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/monke/monkeybook/view/popupwindow/FontPop.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/monke/monkeybook/view/popupwindow/MoreSettingPop.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/monke/work/view/popupwindow/MoreSettingPop.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/monke/monkeybook/view/popupwindow/ProxyPop.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/monke/work/view/popupwindow/ProxyPop.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/monke/monkeybook/view/popupwindow/ReadBookMenuMorePop.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/monke/monkeybook/view/popupwindow/WindowLightPop.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/monke/monkeybook/widget/ChapterListView.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/monke/monkeybook/widget/MTextView.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/monke/monkeybook/widget/RecyclerViewBar.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/monke/monkeybook/widget/checkbox/SmoothCheckBox.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/monke/monkeybook/widget/contentswitchview/BookContentView.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/monke/monkeybook/widget/contentswitchview/ContentSwitchView.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/monke/monkeybook/widget/flowlayout/FlowLayout.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/monke/monkeybook/widget/flowlayout/TagAdapter.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/monke/monkeybook/widget/flowlayout/TagFlowLayout.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/monke/monkeybook/widget/flowlayout/TagView.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/monke/monkeybook/widget/libraryview/LibraryKindBookAdapter.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/monke/monkeybook/widget/libraryview/LibraryKindBookListView.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/monke/monkeybook/widget/libraryview/LibraryKindBookView.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/monke/monkeybook/widget/libraryview/LibraryNewBooksAdapter.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/monke/monkeybook/widget/libraryview/LibraryNewBooksView.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/monke/monkeybook/widget/modialog/MoProgressHUD.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/monke/monkeybook/widget/modialog/MoProgressView.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/monke/monkeybook/widget/refreshview/BaseRefreshListener.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/monke/monkeybook/widget/refreshview/OnLoadMoreListener.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/monke/monkeybook/widget/refreshview/OnRefreshWithProgressListener.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/monke/monkeybook/widget/refreshview/RefreshProgressBar.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/monke/monkeybook/widget/refreshview/RefreshRecyclerView.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/monke/monkeybook/widget/refreshview/RefreshRecyclerViewAdapter.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/monke/monkeybook/widget/refreshview/RefreshScrollView.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/res/layout/activity_bookchoice.xml" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/layout/activity_bookchoice.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/res/layout/activity_bookread.xml" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/layout/activity_bookread.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/res/layout/activity_library.xml" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/layout/activity_library.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/res/layout/activity_main.xml" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/layout/activity_main.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/res/layout/activity_search.xml" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/layout/activity_search.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/res/layout/adapter_content_switch_item.xml" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/layout/adapter_content_switch_item.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/res/layout/view_adapter_importbook.xml" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/layout/view_adapter_importbook.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/res/layout/view_chapterlist.xml" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/layout/view_chapterlist.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/res/layout/view_library_hotauthor.xml" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/layout/view_library_hotauthor.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/res/layout/view_pop_windowlight.xml" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/layout/view_pop_windowlight.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/res/layout/view_refresh_recyclerview.xml" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/layout/view_refresh_recyclerview.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/res/mipmap-xxxhdpi/ic_launcher.png" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/mipmap-xxxhdpi/ic_launcher.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/test/java/com/monke/monkeybook/ExampleUnitTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/basemvplib/basemvplib.iml" beforeDir="false" afterPath="$PROJECT_DIR$/basemvplib/basemvplib.iml" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -216,79 +56,18 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="ChapterListView.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/app/src/main/java/com/monke/work/widget/ChapterListView.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="76">
-              <caret line="23" column="13" selection-start-line="23" selection-start-column="13" selection-end-line="23" selection-end-column="13" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="MTextView.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/app/src/main/java/com/monke/work/widget/MTextView.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="152">
-              <caret line="13" column="13" selection-start-line="13" selection-start-column="13" selection-end-line="13" selection-end-column="13" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="RecyclerViewBar.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/app/src/main/java/com/monke/work/widget/RecyclerViewBar.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="76">
-              <caret line="23" column="13" selection-start-line="23" selection-start-column="13" selection-end-line="23" selection-end-column="13" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="BitIntentDataManager.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/app/src/main/java/com/monke/work/BitIntentDataManager.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="76">
-              <caret line="5" column="13" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="ErrorAnalyContentManager.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/app/src/main/java/com/monke/work/ErrorAnalyContentManager.java">
+      <file leaf-file-name="96291.iml" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/96291.iml">
           <provider selected="true" editor-type-id="text-editor">
             <state />
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="MApplication.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/app/src/main/java/com/monke/work/MApplication.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state />
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="ProxyManager.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/app/src/main/java/com/monke/work/ProxyManager.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="76">
-              <caret line="8" column="13" selection-start-line="8" selection-start-column="13" selection-end-line="8" selection-end-column="13" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="ReadBookControl.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/app/src/main/java/com/monke/work/ReadBookControl.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-285">
-              <caret column="13" selection-start-column="13" selection-end-column="13" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="AndroidManifest.xml" pinned="false" current-in-tab="false">
+      <file leaf-file-name="AndroidManifest.xml" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/app/src/main/AndroidManifest.xml">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="152">
-              <caret line="8" column="40" selection-start-line="8" selection-start-column="40" selection-end-line="8" selection-end-column="40" />
+            <state relative-caret-position="380">
+              <caret line="20" selection-start-line="19" selection-end-line="20" />
             </state>
           </provider>
           <provider editor-type-id="android-manifest">
@@ -296,27 +75,10 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="ic_launcher.png" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/app/src/main/res/mipmap-xxxhdpi/ic_launcher.png">
-          <provider selected="true" editor-type-id="images">
-            <state />
-          </provider>
-        </entry>
-      </file>
     </leaf>
-  </component>
-  <component name="FileTemplateManagerImpl">
-    <option name="RECENT_TEMPLATES">
-      <list>
-        <option value="JUnit4 Test Class" />
-      </list>
-    </option>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
-    <option name="PUSH_TAGS">
-      <GitPushTagMode />
-    </option>
   </component>
   <component name="GradleLocalSettings">
     <option name="myGradleHomes">
@@ -334,14 +96,14 @@
         <entry>
           <key>
             <ExternalProjectPojo>
-              <option name="name" value="resss" />
+              <option name="name" value="96291" />
               <option name="path" value="$PROJECT_DIR$" />
             </ExternalProjectPojo>
           </key>
           <value>
             <list>
               <ExternalProjectPojo>
-                <option name="name" value="resss" />
+                <option name="name" value="96291" />
                 <option name="path" value="$PROJECT_DIR$" />
               </ExternalProjectPojo>
               <ExternalProjectPojo>
@@ -363,7 +125,7 @@
           <value>
             <list>
               <ExternalTaskPojo>
-                <option name="description" value="Displays the sub-projects of root project 'resss'." />
+                <option name="description" value="Displays the sub-projects of root project '96291'." />
                 <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
                 <option name="name" value="projects" />
               </ExternalTaskPojo>
@@ -459,7 +221,7 @@
                 <option name="name" value="compileDebugAndroidTestJavaWithJavac" />
               </ExternalTaskPojo>
               <ExternalTaskPojo>
-                <option name="description" value="Displays the components produced by root project 'resss'. [incubating]" />
+                <option name="description" value="Displays the components produced by root project '96291'. [incubating]" />
                 <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
                 <option name="name" value="components" />
               </ExternalTaskPojo>
@@ -774,12 +536,12 @@
                 <option name="name" value="generateDebugAssets" />
               </ExternalTaskPojo>
               <ExternalTaskPojo>
-                <option name="description" value="Displays the dependent components of components in root project 'resss'. [incubating]" />
+                <option name="description" value="Displays the dependent components of components in root project '96291'. [incubating]" />
                 <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
                 <option name="name" value="dependentComponents" />
               </ExternalTaskPojo>
               <ExternalTaskPojo>
-                <option name="description" value="Displays all buildscript dependencies declared in root project 'resss'." />
+                <option name="description" value="Displays all buildscript dependencies declared in root project '96291'." />
                 <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
                 <option name="name" value="buildEnvironment" />
               </ExternalTaskPojo>
@@ -923,7 +685,7 @@
                 <option name="name" value="bundleRelease" />
               </ExternalTaskPojo>
               <ExternalTaskPojo>
-                <option name="description" value="Displays the configuration model of root project 'resss'. [incubating]" />
+                <option name="description" value="Displays the configuration model of root project '96291'. [incubating]" />
                 <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
                 <option name="name" value="model" />
               </ExternalTaskPojo>
@@ -936,7 +698,7 @@
                 <option name="name" value="reportSourceSetTransformAndroidTest" />
               </ExternalTaskPojo>
               <ExternalTaskPojo>
-                <option name="description" value="Displays the tasks runnable from root project 'resss' (some of the displayed tasks may belong to subprojects)." />
+                <option name="description" value="Displays the tasks runnable from root project '96291' (some of the displayed tasks may belong to subprojects)." />
                 <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
                 <option name="name" value="tasks" />
               </ExternalTaskPojo>
@@ -962,7 +724,7 @@
                 <option name="name" value="transformNativeLibsWithIntermediateJniLibsForRelease" />
               </ExternalTaskPojo>
               <ExternalTaskPojo>
-                <option name="description" value="Displays all dependencies declared in root project 'resss'." />
+                <option name="description" value="Displays all dependencies declared in root project '96291'." />
                 <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
                 <option name="name" value="dependencies" />
               </ExternalTaskPojo>
@@ -1068,7 +830,7 @@
                 <option name="name" value="packageAppClassesReleaseUnitTest" />
               </ExternalTaskPojo>
               <ExternalTaskPojo>
-                <option name="description" value="Displays the insight into a specific dependency in root project 'resss'." />
+                <option name="description" value="Displays the insight into a specific dependency in root project '96291'." />
                 <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
                 <option name="name" value="dependencyInsight" />
               </ExternalTaskPojo>
@@ -1331,7 +1093,7 @@
                 <option name="name" value="packageDebugAndroidTest" />
               </ExternalTaskPojo>
               <ExternalTaskPojo>
-                <option name="description" value="Displays the properties of root project 'resss'." />
+                <option name="description" value="Displays the properties of root project '96291'." />
                 <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
                 <option name="name" value="properties" />
               </ExternalTaskPojo>
@@ -3094,7 +2856,6 @@
                             <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.android.tools.layoutlib/layoutlib-api/26.2.1/164c58ac8cf4b2bb08ad03acc5f963f4f70cfcaa/layoutlib-api-26.2.1.jar" />
                             <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.android.tools/dvlib/26.2.1/b24c7d51f8207945555c47e9a461c9306090692b/dvlib-26.2.1-sources.jar" />
                             <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.android.tools/dvlib/26.2.1/fa3cc125cd311f65dcae6310e381b20d4b2ec0fe/dvlib-26.2.1.jar" />
-                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.android.tools/repository/26.2.1/7608a4a53a81c4a4b0d3963a5923c23a86f05ca6/repository-26.2.1-sources.jar" />
                             <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.android.tools/repository/26.2.1/7a72673cd6b44aeafab3ccf831fc0b95cb61f3b5/repository-26.2.1.jar" />
                             <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.apache.commons/commons-compress/1.12/1fdd1a2fed15cdf08780ed564279c0ddbff46419/commons-compress-1.12-sources.jar" />
                             <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.apache.commons/commons-compress/1.12/84caa68576e345eb5e7ae61a0e5a9229eb100d7b/commons-compress-1.12.jar" />
@@ -3298,7 +3059,6 @@
                             <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.android.tools.layoutlib/layoutlib-api/26.2.1/164c58ac8cf4b2bb08ad03acc5f963f4f70cfcaa/layoutlib-api-26.2.1.jar" />
                             <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.android.tools/dvlib/26.2.1/b24c7d51f8207945555c47e9a461c9306090692b/dvlib-26.2.1-sources.jar" />
                             <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.android.tools/dvlib/26.2.1/fa3cc125cd311f65dcae6310e381b20d4b2ec0fe/dvlib-26.2.1.jar" />
-                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.android.tools/repository/26.2.1/7608a4a53a81c4a4b0d3963a5923c23a86f05ca6/repository-26.2.1-sources.jar" />
                             <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.android.tools/repository/26.2.1/7a72673cd6b44aeafab3ccf831fc0b95cb61f3b5/repository-26.2.1.jar" />
                             <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.apache.commons/commons-compress/1.12/1fdd1a2fed15cdf08780ed564279c0ddbff46419/commons-compress-1.12-sources.jar" />
                             <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.apache.commons/commons-compress/1.12/84caa68576e345eb5e7ae61a0e5a9229eb100d7b/commons-compress-1.12.jar" />
@@ -3502,7 +3262,6 @@
                             <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.android.tools.layoutlib/layoutlib-api/26.2.1/164c58ac8cf4b2bb08ad03acc5f963f4f70cfcaa/layoutlib-api-26.2.1.jar" />
                             <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.android.tools/dvlib/26.2.1/b24c7d51f8207945555c47e9a461c9306090692b/dvlib-26.2.1-sources.jar" />
                             <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.android.tools/dvlib/26.2.1/fa3cc125cd311f65dcae6310e381b20d4b2ec0fe/dvlib-26.2.1.jar" />
-                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.android.tools/repository/26.2.1/7608a4a53a81c4a4b0d3963a5923c23a86f05ca6/repository-26.2.1-sources.jar" />
                             <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.android.tools/repository/26.2.1/7a72673cd6b44aeafab3ccf831fc0b95cb61f3b5/repository-26.2.1.jar" />
                             <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.apache.commons/commons-compress/1.12/1fdd1a2fed15cdf08780ed564279c0ddbff46419/commons-compress-1.12-sources.jar" />
                             <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.apache.commons/commons-compress/1.12/84caa68576e345eb5e7ae61a0e5a9229eb100d7b/commons-compress-1.12.jar" />
@@ -3579,7 +3338,7 @@
                   </entry>
                 </map>
               </option>
-              <option name="name" value="resss" />
+              <option name="name" value="96291" />
               <option name="projectBuildClasspath">
                 <list>
                   <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.6-all/bcst21l2brirad8k2ben1letg/gradle-4.6/src/announce" />
@@ -3745,62 +3504,13 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/app/src/main/java/com/monke/monkeybook/presenter/impl/LibraryPresenterImpl.java" />
-        <option value="$PROJECT_DIR$/app/src/main/java/com/monke/monkeybook/presenter/impl/ImportBookPresenterImpl.java" />
-        <option value="$PROJECT_DIR$/app/src/main/java/com/monke/monkeybook/presenter/impl/MainPresenterImpl.java" />
-        <option value="$PROJECT_DIR$/app/src/main/java/com/monke/monkeybook/presenter/impl/ReadBookPresenterImpl.java" />
-        <option value="$PROJECT_DIR$/app/src/main/java/com/monke/monkeybook/presenter/impl/SearchPresenterImpl.java" />
-        <option value="$PROJECT_DIR$/app/src/main/java/com/monke/monkeybook/presenter/IBookDetailPresenter.java" />
-        <option value="$PROJECT_DIR$/app/src/main/java/com/monke/monkeybook/presenter/IBookReadPresenter.java" />
-        <option value="$PROJECT_DIR$/app/src/main/java/com/monke/monkeybook/presenter/IChoiceBookPresenter.java" />
-        <option value="$PROJECT_DIR$/app/src/main/java/com/monke/monkeybook/presenter/IImportBookPresenter.java" />
-        <option value="$PROJECT_DIR$/app/src/main/java/com/monke/monkeybook/presenter/ILibraryPresenter.java" />
-        <option value="$PROJECT_DIR$/app/src/main/java/com/monke/monkeybook/presenter/IMainPresenter.java" />
-        <option value="$PROJECT_DIR$/app/src/main/java/com/monke/monkeybook/presenter/ISearchPresenter.java" />
-        <option value="$PROJECT_DIR$/app/src/main/java/com/monke/monkeybook/service/DownloadService.java" />
-        <option value="$PROJECT_DIR$/app/src/main/java/com/monke/monkeybook/utils/BlurTransformation.java" />
-        <option value="$PROJECT_DIR$/app/src/main/java/com/monke/monkeybook/utils/DensityUtil.java" />
-        <option value="$PROJECT_DIR$/app/src/main/java/com/monke/monkeybook/utils/NetworkUtil.java" />
-        <option value="$PROJECT_DIR$/app/src/main/java/com/monke/monkeybook/utils/NumberUtil.java" />
-        <option value="$PROJECT_DIR$/app/src/main/java/com/monke/monkeybook/utils/PremissionCheck.java" />
-        <option value="$PROJECT_DIR$/app/src/main/java/com/monke/monkeybook/view/adapter/BookShelfAdapter.java" />
-        <option value="$PROJECT_DIR$/app/src/main/java/com/monke/monkeybook/view/adapter/ChapterListAdapter.java" />
-        <option value="$PROJECT_DIR$/app/src/main/java/com/monke/monkeybook/view/adapter/ChoiceBookAdapter.java" />
-        <option value="$PROJECT_DIR$/app/src/main/java/com/monke/monkeybook/view/adapter/ImportBookAdapter.java" />
-        <option value="$PROJECT_DIR$/app/src/main/java/com/monke/monkeybook/view/adapter/SearchBookAdapter.java" />
-        <option value="$PROJECT_DIR$/app/src/main/java/com/monke/monkeybook/view/adapter/SearchHistoryAdapter.java" />
-        <option value="$PROJECT_DIR$/app/src/main/java/com/monke/monkeybook/view/impl/BookDetailActivity.java" />
-        <option value="$PROJECT_DIR$/app/src/main/java/com/monke/monkeybook/view/impl/ChoiceBookActivity.java" />
-        <option value="$PROJECT_DIR$/app/src/main/java/com/monke/monkeybook/view/impl/ImportBookActivity.java" />
-        <option value="$PROJECT_DIR$/app/src/main/java/com/monke/monkeybook/view/impl/LibraryActivity.java" />
-        <option value="$PROJECT_DIR$/app/src/main/java/com/monke/monkeybook/view/impl/MainActivity.java" />
-        <option value="$PROJECT_DIR$/app/src/main/java/com/monke/monkeybook/view/impl/ReadBookActivity.java" />
-        <option value="$PROJECT_DIR$/app/src/main/java/com/monke/monkeybook/view/impl/SearchActivity.java" />
-        <option value="$PROJECT_DIR$/app/src/main/java/com/monke/monkeybook/view/impl/WelcomeActivity.java" />
-        <option value="$PROJECT_DIR$/app/src/main/java/com/monke/monkeybook/view/popupwindow/CheckAddShelfPop.java" />
-        <option value="$PROJECT_DIR$/app/src/main/java/com/monke/monkeybook/view/popupwindow/DownloadListPop.java" />
-        <option value="$PROJECT_DIR$/app/src/main/java/com/monke/monkeybook/view/popupwindow/FontPop.java" />
-        <option value="$PROJECT_DIR$/app/src/main/java/com/monke/monkeybook/view/popupwindow/MoreSettingPop.java" />
-        <option value="$PROJECT_DIR$/app/src/main/java/com/monke/monkeybook/view/popupwindow/ReadBookMenuMorePop.java" />
-        <option value="$PROJECT_DIR$/app/src/main/java/com/monke/monkeybook/view/popupwindow/WindowLightPop.java" />
-        <option value="$PROJECT_DIR$/app/src/main/java/com/monke/monkeybook/view/IBookDetailView.java" />
-        <option value="$PROJECT_DIR$/app/src/main/java/com/monke/monkeybook/view/IBookReadView.java" />
-        <option value="$PROJECT_DIR$/app/src/main/java/com/monke/monkeybook/view/IChoiceBookView.java" />
-        <option value="$PROJECT_DIR$/app/src/main/java/com/monke/monkeybook/view/IImportBookView.java" />
-        <option value="$PROJECT_DIR$/app/src/main/java/com/monke/monkeybook/view/ILibraryView.java" />
-        <option value="$PROJECT_DIR$/app/src/main/java/com/monke/monkeybook/view/IMainView.java" />
-        <option value="$PROJECT_DIR$/app/src/main/java/com/monke/monkeybook/view/ISearchView.java" />
-        <option value="$PROJECT_DIR$/app/src/main/java/com/monke/monkeybook/BitIntentDataManager.java" />
-        <option value="$PROJECT_DIR$/app/src/main/java/com/monke/monkeybook/ErrorAnalyContentManager.java" />
-        <option value="$PROJECT_DIR$/app/src/main/java/com/monke/monkeybook/MApplication.java" />
-        <option value="$PROJECT_DIR$/app/src/main/java/com/monke/monkeybook/ReadBookControl.java" />
-        <option value="$PROJECT_DIR$/app/src/main/java/com/monke/work/ReadBookControl.java" />
         <option value="$PROJECT_DIR$/app/src/main/AndroidManifest.xml" />
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds">
-    <option name="x" value="35" />
+  <component name="ProjectFrameBounds" extendedState="7">
+    <option name="x" value="-8" />
+    <option name="y" value="-8" />
     <option name="width" value="1400" />
     <option name="height" value="820" />
   </component>
@@ -3809,54 +3519,31 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="PackagesPane" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
             <path>
-              <item name="resss" type="b2602c69:ProjectViewProjectNode" />
-              <item name="resss" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="96291" type="b2602c69:ProjectViewProjectNode" />
+              <item name="96291" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
             </path>
             <path>
-              <item name="resss" type="b2602c69:ProjectViewProjectNode" />
-              <item name="resss" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="96291" type="b2602c69:ProjectViewProjectNode" />
+              <item name="96291" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
               <item name="app" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
+      <pane id="AndroidView" />
       <pane id="Scope" />
-      <pane id="PackagesPane" />
-      <pane id="AndroidView">
-        <subPane>
-          <expand>
-            <path>
-              <item name="resss" type="1abcf292:AndroidViewProjectNode" />
-              <item name="app" type="feadf853:AndroidModuleNode" />
-            </path>
-          </expand>
-          <select />
-        </subPane>
-      </pane>
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="android.sdk.path" value="$USER_HOME$/AppData/Local/Android/Sdk" />
-    <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary" value="JUnit4" />
-    <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit4" value="" />
-    <property name="last_directory_selection" value="$PROJECT_DIR$/app/src/androidTest/java/com/monke/monkeybook" />
+    <property name="device.picker.selection" value="d620907" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
-  </component>
-  <component name="RecentsManager">
-    <key name="CreateTestDialog.RecentsKey">
-      <recent name="com.monke.monkeybook.base.observer" />
-    </key>
-    <key name="CreateTestDialog.Recents.Supers">
-      <recent name="" />
-    </key>
-    <key name="CopyFile.RECENT_KEYS">
-      <recent name="C:\Users\Administrator\Desktop\resss\app\src\main\res\mipmap-xxxhdpi" />
-    </key>
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -3975,16 +3662,16 @@
   </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="0942ca32-11c1-4704-8fc3-a22c15904e15" name="Default" comment="" />
-      <created>1558341166099</created>
+      <changelist id="056ad9e4-1679-4521-9628-24f8e3055614" name="Default" comment="" />
+      <created>1559703845463</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1558341166099</updated>
+      <updated>1559703845463</updated>
     </task>
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="35" y="0" width="1400" height="820" extended-state="0" />
+    <frame x="-8" y="-8" width="1456" height="876" extended-state="7" />
     <layout>
       <window_info anchor="bottom" id="TODO" order="6" />
       <window_info anchor="bottom" id="Android Profiler" show_stripe_button="false" />
@@ -3992,7 +3679,7 @@
       <window_info id="Image Layers" />
       <window_info id="Build Variants" side_tool="true" />
       <window_info anchor="right" id="Capture Analysis" />
-      <window_info active="true" anchor="bottom" id="Event Log" side_tool="true" visible="true" weight="0.32994187" />
+      <window_info anchor="bottom" id="Event Log" side_tool="true" />
       <window_info anchor="bottom" id="Run" order="2" />
       <window_info anchor="bottom" id="Version Control" />
       <window_info anchor="bottom" id="Terminal" />
@@ -4000,380 +3687,39 @@
       <window_info id="Captures" order="2" weight="0.25" />
       <window_info id="Capture Tool" />
       <window_info id="Designer" />
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.26044777" />
-      <window_info anchor="bottom" id="Build" weight="0.35610464" />
-      <window_info anchor="bottom" id="Find" order="1" weight="0.32994187" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.25" />
+      <window_info anchor="bottom" id="Build" visible="true" weight="0.3293011" />
       <window_info anchor="right" id="Gradle" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info anchor="right" id="Theme Preview" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info id="Favorites" side_tool="true" />
       <window_info anchor="right" id="Device File Explorer" side_tool="true" />
+      <window_info anchor="bottom" id="Find" order="1" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
-      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
     </layout>
-    <layout-to-restore>
-      <window_info anchor="right" id="Ant Build" order="6" weight="0.25" />
-      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="7" weight="0.25" />
-      <window_info anchor="right" id="Device File Explorer" order="0" side_tool="true" />
-      <window_info anchor="right" id="Capture Analysis" order="1" />
-      <window_info anchor="right" id="Gradle" order="2" />
-      <window_info anchor="bottom" id="Run" order="8" />
-      <window_info anchor="right" id="Theme Preview" order="3" />
-      <window_info anchor="bottom" id="Cvs" order="10" weight="0.25" />
-      <window_info anchor="bottom" id="Logcat" order="0" />
-      <window_info active="true" content_ui="combo" id="Project" order="5" visible="true" weight="0.26044777" />
-      <window_info id="Structure" order="6" side_tool="true" weight="0.25" />
-      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="5" type="SLIDING" weight="0.4" />
-      <window_info anchor="bottom" id="TODO" order="12" />
-      <window_info id="Favorites" order="0" side_tool="true" />
-      <window_info id="Build Variants" order="1" side_tool="true" />
-      <window_info id="Image Layers" order="2" />
-      <window_info id="Designer" order="3" />
-      <window_info id="Captures" order="7" weight="0.25" />
-      <window_info anchor="bottom" id="Message" order="6" />
-      <window_info anchor="bottom" id="Debug" order="9" weight="0.4" />
-      <window_info anchor="right" id="Palette&#9;" order="4" />
-      <window_info anchor="bottom" id="Terminal" order="1" />
-      <window_info anchor="bottom" id="Event Log" order="2" side_tool="true" />
-      <window_info anchor="bottom" id="Inspection" order="11" weight="0.4" />
-      <window_info anchor="bottom" id="Version Control" order="3" />
-      <window_info anchor="bottom" id="Build" order="4" weight="0.35610464" />
-      <window_info id="Capture Tool" order="4" />
-      <window_info anchor="bottom" id="Find" order="7" />
-      <window_info anchor="bottom" id="Android Profiler" order="5" show_stripe_button="false" />
-    </layout-to-restore>
   </component>
   <component name="VcsContentAnnotationSettings">
     <option name="myLimit" value="2678400000" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/monke/work/view/impl/ImportBookActivity.java">
+    <entry file="file://$PROJECT_DIR$/96291.iml">
       <provider selected="true" editor-type-id="text-editor">
         <state />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/monke/work/view/impl/LibraryActivity.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/monke/work/view/impl/MainActivity.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="38">
-          <caret line="2" selection-start-line="2" selection-end-line="2" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/monke/work/view/impl/ReadBookActivity.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/monke/work/view/impl/SearchActivity.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-722">
-          <caret line="1" selection-start-line="1" selection-end-line="1" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/monke/work/view/impl/WelcomeActivity.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="412">
-          <caret line="78" column="35" lean-forward="true" selection-start-line="78" selection-start-column="35" selection-end-line="78" selection-end-column="35" />
-          <folding>
-            <element signature="e#2318#2319#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/monke/work/view/popupwindow/CheckAddShelfPop.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/monke/work/view/popupwindow/DownloadListPop.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/monke/work/view/popupwindow/FontPop.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/monke/work/view/popupwindow/MoreSettingPop.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/monke/work/view/popupwindow/ProxyPop.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="76">
-          <caret line="21" column="13" selection-start-line="21" selection-start-column="13" selection-end-line="21" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/monke/work/view/popupwindow/ReadBookMenuMorePop.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/monke/work/view/popupwindow/WindowLightPop.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/monke/work/view/IBookDetailView.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/monke/work/view/IBookReadView.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/monke/work/view/IChoiceBookView.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/monke/work/view/IImportBookView.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/monke/work/view/ILibraryView.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/monke/work/view/IMainView.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/monke/work/view/ISearchView.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-57" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/monke/work/widget/checkbox/SmoothCheckBox.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="76">
-          <caret line="21" column="13" selection-start-line="21" selection-start-column="13" selection-end-line="21" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/monke/work/widget/contentswitchview/BookContentView.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="76">
-          <caret line="20" column="13" selection-start-line="20" selection-start-column="13" selection-end-line="20" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/monke/work/widget/contentswitchview/ContentSwitchView.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="38">
-          <caret line="2" selection-start-line="2" selection-end-line="2" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/monke/work/widget/flowlayout/FlowLayout.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="76">
-          <caret line="11" column="13" selection-start-line="11" selection-start-column="13" selection-end-line="11" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/monke/work/widget/flowlayout/TagAdapter.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="76">
-          <caret line="10" column="22" selection-start-line="10" selection-start-column="22" selection-end-line="10" selection-end-column="22" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/monke/work/widget/flowlayout/TagFlowLayout.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="76">
-          <caret line="19" column="13" selection-start-line="19" selection-start-column="13" selection-end-line="19" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/monke/work/widget/flowlayout/TagView.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="76">
-          <caret line="7" column="13" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/monke/work/widget/libraryview/LibraryKindBookAdapter.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="76">
-          <caret line="16" column="13" selection-start-line="16" selection-start-column="13" selection-end-line="16" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/monke/work/widget/libraryview/LibraryKindBookListView.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="76">
-          <caret line="18" column="13" selection-start-line="18" selection-start-column="13" selection-end-line="18" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/monke/work/widget/libraryview/LibraryKindBookView.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="76">
-          <caret line="15" column="13" selection-start-line="15" selection-start-column="13" selection-end-line="15" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/monke/work/widget/libraryview/LibraryNewBooksAdapter.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="76">
-          <caret line="11" column="13" selection-start-line="11" selection-start-column="13" selection-end-line="11" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/monke/work/widget/libraryview/LibraryNewBooksView.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="76">
-          <caret line="13" column="13" selection-start-line="13" selection-start-column="13" selection-end-line="13" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/monke/work/widget/modialog/MoProgressHUD.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="133">
-          <caret line="25" column="13" selection-start-line="25" selection-start-column="13" selection-end-line="25" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/monke/work/widget/modialog/MoProgressView.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="133">
-          <caret line="21" column="13" selection-start-line="21" selection-start-column="13" selection-end-line="21" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/monke/work/widget/refreshview/OnLoadMoreListener.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="38">
-          <caret line="2" column="17" selection-start-line="2" selection-start-column="17" selection-end-line="2" selection-end-column="17" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/monke/work/widget/refreshview/OnRefreshWithProgressListener.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="38">
-          <caret line="2" column="17" selection-start-line="2" selection-start-column="17" selection-end-line="2" selection-end-column="17" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/monke/work/widget/refreshview/BaseRefreshListener.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="38">
-          <caret line="2" column="17" selection-start-line="2" selection-start-column="17" selection-end-line="2" selection-end-column="17" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/monke/work/widget/refreshview/RefreshProgressBar.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="76">
-          <caret line="15" column="13" selection-start-line="15" selection-start-column="13" selection-end-line="15" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/monke/work/widget/refreshview/RefreshRecyclerView.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="76">
-          <caret line="14" column="13" selection-start-line="14" selection-start-column="13" selection-end-line="14" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/monke/work/widget/refreshview/RefreshRecyclerViewAdapter.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="76">
-          <caret line="13" column="22" selection-start-line="13" selection-start-column="22" selection-end-line="13" selection-end-column="22" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/monke/work/widget/refreshview/RefreshScrollView.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="494">
-          <caret line="37" column="15" lean-forward="true" selection-start-line="37" selection-start-column="15" selection-end-line="37" selection-end-column="15" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/monke/work/widget/ChapterListView.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="76">
-          <caret line="23" column="13" selection-start-line="23" selection-start-column="13" selection-end-line="23" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/monke/work/widget/MTextView.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="152">
-          <caret line="13" column="13" selection-start-line="13" selection-start-column="13" selection-end-line="13" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/monke/work/widget/RecyclerViewBar.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="76">
-          <caret line="23" column="13" selection-start-line="23" selection-start-column="13" selection-end-line="23" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/monke/work/BitIntentDataManager.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="76">
-          <caret line="5" column="13" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/monke/work/ErrorAnalyContentManager.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/monke/work/MApplication.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/monke/work/ProxyManager.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="76">
-          <caret line="8" column="13" selection-start-line="8" selection-start-column="13" selection-end-line="8" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/monke/work/ReadBookControl.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-285">
-          <caret column="13" selection-start-column="13" selection-end-column="13" />
-        </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/app/src/main/AndroidManifest.xml">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="152">
-          <caret line="8" column="40" selection-start-line="8" selection-start-column="40" selection-end-line="8" selection-end-column="40" />
+        <state relative-caret-position="380">
+          <caret line="20" selection-start-line="19" selection-end-line="20" />
         </state>
       </provider>
       <provider editor-type-id="android-manifest">
-        <state />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/src/main/res/mipmap-xxxhdpi/ic_launcher.png">
-      <provider selected="true" editor-type-id="images">
         <state />
       </provider>
     </entry>
